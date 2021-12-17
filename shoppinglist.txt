@@ -6,3 +6,4 @@ orange
 grapes
 kiwi
 cherries
+banana
